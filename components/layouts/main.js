@@ -16,7 +16,7 @@ const Main = ({ children, router }) => {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="description" content="Takuya's homepage" />
-        <meta name="author" content="Takuya Matsuyama" />
+        <meta name="author" content="hallof.apk" />
         <meta name="author" content="craftzdog" />
         <link rel="apple-touch-icon" href="apple-touch-icon.png" />
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
